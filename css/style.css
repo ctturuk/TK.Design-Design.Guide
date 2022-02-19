@@ -1,0 +1,92 @@
+header h1 {
+    text-align: center;
+    font-family: Arizonia !important;
+    letter-spacing: 3px;
+    font-size: 72px;
+}
+
+h3 {
+    margin-top: 0;
+}
+
+p, li {
+    font-family: Montserrat;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.center {
+    width: 96%;
+    margin: auto;
+}
+
+.center h1, .center h2, .center h3 {
+    font-family: Montserrat;
+}
+
+.colorcontainer {
+    margin: 0px auto;
+    height: auto;
+}
+
+.font1 {
+    font-family: Montserrat;
+    text-align: left !important;
+}
+
+.font2, .font2 p{
+    font-family: Arizonia !important;
+    text-align: left !important;
+    font-size: 20px;
+    margin-top: 0;
+}
+
+.font3, .font3 p{
+    font-family: Times !important;
+    text-align: left !important;
+    font-size: 20px;
+    margin-top: 0;
+}
+
+.gold {
+    background-color: #BC852B;
+    color: white;
+}
+
+.green {
+    background-color: #264027;
+    color: white;
+}
+
+.grey {
+    background-color: #DCDCDD;
+    color: black;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.major {
+    border: 5px rgba(187, 132, 42, 0.5) solid;
+    border-radius: 20px;
+    width: 85%;
+    margin: 20px auto;
+}
+
+.minor {
+    display: inline-block;
+    margin: 20px 2%;
+    width: 29%;
+    text-align: center;
+    vertical-align: top;
+}
+
+.title {
+    margin: 1% 0% 0px 2%;
+    font-family: Montserrat;
+    letter-spacing: 2px;
+    font-size: 32px;
+}
